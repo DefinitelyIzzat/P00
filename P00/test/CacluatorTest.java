@@ -57,7 +57,7 @@ public class CacluatorTest {
 	 public void testMultiply() {
 		 int a = 4321;
 		 int b = 1234;
-	   
+	    
 		 Calculator cal = new Calculator();
 		 int actual = cal.multiply(a, b); 
 	    
