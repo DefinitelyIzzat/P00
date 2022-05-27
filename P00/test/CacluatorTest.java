@@ -64,7 +64,7 @@ public class CacluatorTest {
 		 int expected = 5332114;
 		 assertEquals (expected, actual);
 	  }
-
+ 
 	 @Test
 	 public void testDivide() {
 		 int a = 5;
